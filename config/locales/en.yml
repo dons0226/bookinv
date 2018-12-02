@@ -1,3 +1,10 @@
+###############################################################################
+# Location  - bookinv/config/locales/                                         #
+# File Name - en.yml                                                          #
+# Rev.      - 0.0.1                                                           #
+# Rev Date  - 11/29/2018                                                      #
+###############################################################################
+
 # Files in the config/locales directory are used for internationalization
 # and are automatically loaded by Rails. If you want to use locales other
 # than English, add the necessary files in this directory.
@@ -31,3 +38,9 @@
 
 en:
   hello: "Hello world"
+
+###############################################################################
+# Rev. Date  | Rev. No. |          Description                                #
+#------------|----------|-----------------------------------------------------#
+# 11/29/2018 |   0.0.1  | Add header and footer comments.                     #
+###############################################################################

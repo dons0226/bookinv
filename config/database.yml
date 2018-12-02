@@ -1,3 +1,10 @@
+###############################################################################
+# Location  - bookinv/config/                                                 #
+# File Name - database.yml                                                    #
+# Rev.      - 0.0.1                                                           #
+# Rev Date  - 11/29/2018                                                      #
+###############################################################################
+
 # MySQL. Versions 5.1.10 and up are supported.
 #
 # Install the MySQL driver
@@ -52,3 +59,9 @@ production:
   database: bookinv_production
   username: bookinv
   password: <%= ENV['BOOKINV_DATABASE_PASSWORD'] %>
+
+###############################################################################
+# Rev. Date  | Rev. No. |          Description                                #
+#------------|----------|-----------------------------------------------------#
+# 11/29/2018 |   0.0.1  | Add header and footer comments.                     #
+###############################################################################

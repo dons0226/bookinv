@@ -1,3 +1,10 @@
+###############################################################################
+# Location  - bookinv/config/                                                 #
+# File Name - puma.rb                                                         #
+# Rev.      - 0.0.1                                                           #
+# Rev Date  - 11/29/2018                                                      #
+###############################################################################
+
 # Puma can serve each request in a thread from an internal thread pool.
 # The `threads` method setting takes two numbers: a minimum and maximum.
 # Any libraries that use thread pools should be configured to match
@@ -54,3 +61,9 @@ environment ENV.fetch("RAILS_ENV") { "development" }
 
 # Allow puma to be restarted by `rails restart` command.
 plugin :tmp_restart
+
+###############################################################################
+# Rev. Date  | Rev. No. |          Description                                #
+#------------|----------|-----------------------------------------------------#
+# 11/29/2018 |   0.0.1  | Add header and footer comments.                     #
+###############################################################################

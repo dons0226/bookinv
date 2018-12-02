@@ -1,3 +1,10 @@
+###############################################################################
+# Location  - bookinv/config/environments                                     #
+# File Name - development.rb                                                  #
+# Rev.      - 0.0.1                                                           #
+# Rev Date  - 11/29/2018                                                      #
+###############################################################################
+
 Rails.application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
 
@@ -52,3 +59,9 @@ Rails.application.configure do
   # routes, locales, etc. This feature depends on the listen gem.
   # config.file_watcher = ActiveSupport::EventedFileUpdateChecker
 end
+
+###############################################################################
+# Rev. Date  | Rev. No. |          Description                                #
+#------------|----------|-----------------------------------------------------#
+# 11/29/2018 |   0.0.1  | Add header and footer comments.                     #
+###############################################################################

@@ -1,3 +1,10 @@
+###############################################################################
+# Location  - bookinv/                                                        #
+# File Name - Gemfile                                                         #
+# Rev.      - 0.0.1                                                           #
+# Rev Date  - 11/29/2018                                                      #
+###############################################################################
+
 source 'https://rubygems.org'
 
 git_source(:github) do |repo_name|
@@ -48,3 +55,9 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+###############################################################################
+# Rev. Date  | Rev. No. |          Description                                #
+#------------|----------|-----------------------------------------------------#
+# 11/29/2018 |   0.0.1  | Add header and footer comments.                     #
+###############################################################################

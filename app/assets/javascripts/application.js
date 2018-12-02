@@ -1,3 +1,10 @@
+//###############################################################################
+//# Location  - bookinv/app/assets/javascrips/                                  #
+//# File Name - application.js                                                  #
+//# Rev.      - 0.0.1                                                           #
+//# Rev Date  - 11/29/2018                                                      #
+//###############################################################################
+
 // This is a manifest file that'll be compiled into application.js, which will include all the files
 // listed below.
 //
@@ -13,3 +20,9 @@
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
+
+//###############################################################################
+//# Rev. Date  | Rev. No. |          Description                                #
+//#------------|----------|-----------------------------------------------------#
+//# 11/29/2018 |   0.0.1  | Add header and footer comments.                     #
+//###############################################################################
